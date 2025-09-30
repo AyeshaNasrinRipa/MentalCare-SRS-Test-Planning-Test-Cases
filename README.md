@@ -22,7 +22,7 @@ A structured **Test Plan** that includes:
 
 ## 3. Test Cases and Execution Results
 
-The detailed test cases for the ** Mental Care System ** are available in the following Google Sheet:
+The detailed test cases for the **Mental Care System** are available in the following Google Sheet:
 [View Test Cases](https://docs.google.com/spreadsheets/d/1MkNoMydL0UTEuHwdxnwDrcOWQi4DsUCJaCrFDhtIFAA/edit?usp=sharing)
 
 
